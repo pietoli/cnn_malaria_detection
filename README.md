@@ -1,1 +1,1 @@
-# cnn_malaria_detection
+# Malaria detection with convolutional neural networks
